@@ -1,2 +1,8 @@
+# Site settings
+title: "我的博客小屋"
+description: "啦啦啦啦"
 baseurl: ""
 url: "https://wenpeng233.github.io/"
+
+# Build settings
+markdown: redcarpet
